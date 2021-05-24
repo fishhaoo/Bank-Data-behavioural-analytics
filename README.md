@@ -1,4 +1,6 @@
 # Bank-Data-behavioural-analytics
+Assignment
+
 This is an assignment with a given dataset of customer records from a bank while the topic of analytics is free to create.
 However, this assignment is to be completed using SAS Studio only. 
 3 objectives were focused on this assignment which were :
